@@ -1,7 +1,7 @@
-# /Назва Фанфіка/ - Українською
-![обкладинка](https://github.com/Vovkiv/fanfic-translation-template/blob/main/src/cover-ukr.png?raw=true)
+# The Pink Tax - Українською
+![обкладинка](https://github.com/Vovkiv/The_Pink_Tax-ukr/blob/main/src/cover-ukr.png?raw=true)
 
-/перекладений опис фанфіка з fimfiction/
+/Tax season is almost over, and Pinkie hasn't paid hers yet./
 
 # Як відкрити? Де фанфік?
 пдф файл: https://github.com/Vovkiv/fanfic-translation-template/blob/main/fic-ukr.pdf
@@ -29,10 +29,10 @@
 Тоді ви можете написати мені тут: [Contacts](https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate/tree/main#contacts)
 
 # Original fic:
-https://www.fimfiction.net/story/посилання_на_фанфік
+https://www.fimfiction.net/user/237915/Silk+Rose
 
 # Original cover:
-https://посилання_на_обкладинку
+https://github.com/SilkRose/Pony/blob/mane/src/stories/the-pink-tax/cover/cover.png, aka Silk Rose
 
 # Слідкувати за процесом перекладу і іншими фанфіками, які я вже переклав можна тут:
 https://github.com/Vovkiv/mlp_fics_that_i_plan_to_translate
