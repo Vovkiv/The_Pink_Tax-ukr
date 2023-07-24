@@ -4,7 +4,7 @@
 /Tax season is almost over, and Pinkie hasn't paid hers yet./
 
 # Як відкрити? Де фанфік?
-пдф файл: https://github.com/Vovkiv/fanfic-translation-template/blob/main/fic-ukr.pdf
+пдф файл: https://github.com/Vovkiv/The_Pink_Tax-ukr/blob/main/The%20Pink%20Tax%20-%20ukr.pdf
 
 Ви його можете одразу читати його у гітхабі, або можете завантажити.
 
